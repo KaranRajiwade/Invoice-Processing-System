@@ -1,4 +1,5 @@
-mail-parser
+mailparser
 openai
 python-dotenv
 pdfplumber
+sqlite3
