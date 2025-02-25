@@ -1,0 +1,4 @@
+mail-parser
+openai
+python-dotenv
+pdfplumber
